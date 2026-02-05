@@ -43,6 +43,8 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/t33nsy/t33nsy/output/snake.svg" alt="Snake animation" />
+<img src="https://komarev.com/ghpvc/?username=t33nsy&color=blue" />
 
 ###
+
 
